@@ -1,0 +1,24 @@
+{
+  "name": "fileserver",
+  "version": "1.0.0",
+  "description": "a simple file server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file",
+    "server"
+  ],
+  "author": "demo",
+  "license": "ISC",
+  "dependencies": {
+    "co-fs-extra": "^1.2.1",
+    "hat": "0.0.3",
+    "koa": "^1.2.4",
+    "koa-body": "^1.5.0",
+    "koa-router": "^5.4.0",
+    "koa-static": "^2.0.0",
+    "log4js": "^0.6.38"
+  }
+}

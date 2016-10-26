@@ -1,0 +1,31 @@
+{
+  "name": "koademo",
+  "version": "1.0.0",
+  "description": "koa v1 demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa",
+    "demo"
+  ],
+  "author": "demo",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "co-fs-extra": "^1.2.1",
+    "cron": "^1.1.1",
+    "hat": "0.0.3",
+    "koa": "^1.2.4",
+    "koa-body": "^1.6.0",
+    "koa-router": "^5.4.0",
+    "koa-static": "^2.0.0",
+    "log4js": "^0.6.38",
+    "mongoose": "^4.6.5",
+    "qs": "^6.3.0",
+    "redis": "^2.6.2",
+    "then-redis": "^2.0.1",
+    "validator": "^6.1.0"
+  }
+}

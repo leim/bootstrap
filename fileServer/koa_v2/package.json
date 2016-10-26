@@ -1,0 +1,19 @@
+{
+  "name": "fileserver",
+  "version": "1.0.0",
+  "description": "file server using koa v2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file",
+    "server",
+    "koa"
+  ],
+  "author": "demo",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.0.0"
+  }
+}

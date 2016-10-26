@@ -1,0 +1,30 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "api server with expresss v4",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "api",
+    "app",
+    "demo"
+  ],
+  "author": "demo",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "body-parser": "^1.15.2",
+    "cron": "^1.1.1",
+    "express": "^4.14.0",
+    "fs-extra": "^0.30.0",
+    "hat": "0.0.3",
+    "hiredis": "^0.5.0",
+    "log4js": "^0.6.38",
+    "mongoose": "^4.6.5",
+    "redis": "^2.6.2",
+    "validator": "^6.1.0"
+  }
+}

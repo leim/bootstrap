@@ -1,0 +1,22 @@
+{
+  "name": "fileServer",
+  "version": "0.0.1",
+  "description": "file server express v4",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "express": "^4.12.4",
+    "formidable": "^1.0.17",
+    "fs-extra": "^0.18.4",
+    "hat": "0.0.3"
+  },
+  "contributors": [
+    {
+      "name": "demo",
+      "email": "demo@example.com"
+    }
+  ]
+}
